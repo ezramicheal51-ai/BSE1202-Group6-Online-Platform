@@ -1,0 +1,18 @@
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.exe.config
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.exe
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.pdb
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE_PLATFORM.Properties.Resources.resources
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.exe
+C:\Users\DELL\source\repos\ONLINE PLATFORM\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.pdb
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.exe.config
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.exe
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\bin\Debug\ONLINE PLATFORM.pdb
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE_PLATFORM.Properties.Resources.resources
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.exe
+C:\Users\DELL\Desktop\group6\ONLINE PLATFORM\obj\Debug\ONLINE PLATFORM.pdb
